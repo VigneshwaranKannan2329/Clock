@@ -1,0 +1,31 @@
+html,body{
+    background-image: url("https://img.freepik.com/premium-vector/happy-new-year-2020-background-with-clock_41084-442.jpg?semt=ais_hybrid");
+    background-size: cover;
+    margin: 0;
+    width: 100%;
+}
+.main-container{
+ width: 100%;
+ height: 1080px;
+ position: relative;
+}
+h1{
+    width: 100%;
+    margin-top: 15%;
+    position: absolute;
+    font-size: 8vw;
+    font-weight: bold;
+    text-align: center;
+    color: rgb(49, 3, 3);
+    font-family: 'Oswald', sans-serif;
+    letter-spacing: 5px;
+}
+#clock{
+    width: 100%;
+    position: absolute;
+    font-size: 9vw;
+    color: rgb(224, 31, 31);
+    text-align: center;
+    font-family: 'Roboto', sans-serif;
+    margin-top: 25%;
+}
